@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.Net.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProjectGuid>{72dbf2c4-f511-4831-8e51-c6c3b49b6974}</ProjectGuid>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="NOCA_FramewrokBoot.Cosmos" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Cosmos.Debug.Kernel" Version="*" />
+    <PackageReference Include="Cosmos.System2" Version="*" />
+  </ItemGroup>
+
+</Project>

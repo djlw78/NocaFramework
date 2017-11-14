@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NOCA Framework", "NOCA Framewrok\NOCA Framework.csproj", "{72DBF2C4-F511-4831-8E51-C6C3B49B6974}"
+EndProject
+Project("{471EC4BB-E47E-4229-A789-D1F5F83B52D4}") = "NOCA FrameworkBoot", "NOCA Framewrok\NOCA FrameworkBoot.Cosmos", "{3FBA1B35-84D7-4982-A88D-D6B85DDE5348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72DBF2C4-F511-4831-8E51-C6C3B49B6974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DBF2C4-F511-4831-8E51-C6C3B49B6974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DBF2C4-F511-4831-8E51-C6C3B49B6974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DBF2C4-F511-4831-8E51-C6C3B49B6974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBA1B35-84D7-4982-A88D-D6B85DDE5348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBA1B35-84D7-4982-A88D-D6B85DDE5348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBA1B35-84D7-4982-A88D-D6B85DDE5348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBA1B35-84D7-4982-A88D-D6B85DDE5348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80FD8A77-01A3-4B57-815E-2465D446AB1D}
+	EndGlobalSection
+EndGlobal
