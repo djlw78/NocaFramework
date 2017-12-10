@@ -21,13 +21,12 @@ namespace NOCA_Framework.NocaFramework.System
         /// 
         /// </summary>
         /// <returns></returns>
-        
+
         public static bool Beep()
         {
-            CoreFramework.Audio.PCSpeaker.Beep(800);
+            CoreFramework.Audio.PCSpeaker.Beep(800, 250);
             return true;
         }
-
         /// <summary>
         /// 
         /// </summary>
