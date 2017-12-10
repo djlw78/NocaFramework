@@ -25,7 +25,7 @@ namespace NOCA_Framework.NocaFramework.CoreFramework.Audio
         public static void Beep(uint frequency, uint milliseconds)
         {
             Beep(frequency);
-            //FlowDOS.Time.WaitMS(milliseconds);
+            DateTime.Time.WaitMS(milliseconds);
             sound_off();
         }
 

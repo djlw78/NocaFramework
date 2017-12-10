@@ -321,11 +321,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\xdj78\\Desktop\\NOCA Framework\\Core\\NOCA Framewrok\\NOCA Framewrok\\NOCA Framework.csproj",
+      "projectUniqueName": "C:\\Users\\xdj78\\Desktop\\pull out game pdf's\\NOCA Framework\\Core\\NOCA Framewrok\\NOCA Framewrok\\NOCA Framework.csproj",
       "projectName": "NOCA Framework",
-      "projectPath": "C:\\Users\\xdj78\\Desktop\\NOCA Framework\\Core\\NOCA Framewrok\\NOCA Framewrok\\NOCA Framework.csproj",
+      "projectPath": "C:\\Users\\xdj78\\Desktop\\pull out game pdf's\\NOCA Framework\\Core\\NOCA Framewrok\\NOCA Framewrok\\NOCA Framework.csproj",
       "packagesPath": "C:\\Users\\xdj78\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xdj78\\Desktop\\NOCA Framework\\Core\\NOCA Framewrok\\NOCA Framewrok\\obj\\",
+      "outputPath": "C:\\Users\\xdj78\\Desktop\\pull out game pdf's\\NOCA Framework\\Core\\NOCA Framewrok\\NOCA Framewrok\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

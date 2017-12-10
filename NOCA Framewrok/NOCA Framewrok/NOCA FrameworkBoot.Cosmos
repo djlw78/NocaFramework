@@ -30,5 +30,12 @@
       <Private>True</Private>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NocaFramework\" />
+    <Folder Include="NocaFramework\CoreFramework\" />
+    <Folder Include="NocaFramework\CoreFramework\Audio\" />
+    <Folder Include="NocaFramework\CoreFramework\DateTime\" />
+    <Folder Include="NocaFramework\System\" />
+  </ItemGroup>
   <Import Project="$(AppData)\Cosmos User Kit\Build\VSIP\Cosmos.targets" />
 </Project>
